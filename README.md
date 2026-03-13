@@ -1,4 +1,4 @@
-# Dmitry Zverev
+# Dmitrii Zverev
 
 Python Backend Developer
 
