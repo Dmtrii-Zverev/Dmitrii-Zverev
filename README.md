@@ -1,4 +1,4 @@
-# Dmitrii Zverev
+# Дмитрий Зверев
 
 Python Backend Developer
 
@@ -6,7 +6,7 @@ Backend developer focused on building web services and REST APIs.
 
 ---
 
-## Tech Stack
+## Технологический стек
 
 Python  
 Django / Django REST Framework  
@@ -29,59 +29,17 @@ Docker deployment
 
 ---
 
-## Featured Projects
+## Образование
 
-### Foodgram API
-Backend service for recipe platform.
+**Магистратура:** Фронтенд‑ и бэкенд‑разработка, ИТМО (2025–2027, 2 семестр)
+**Профессиональная переподготовка:** Python‑разработчик, Яндекс Практикум (2024–2025)
+**Бакалавриат:** Географический факультет, МГУ имени М. В. Ломоносова (2021–2025)
 
-Tech stack:
-Python • Django • DRF • PostgreSQL • Docker
-
-Features:
-- user authentication
-- subscriptions
-- favorites
-- shopping list generation
-
-Repository:
-https://github.com/Dmtrii-Zverev/foodgram
 
 ---
+## Контакты
 
-### Async URL Shortener
+📱 Telegram: @Reahmen  
+✉️ E‑mail: zverev.dmtrii@ya.ru  
+💼 Статус занятости: Открыт для предложений о работе
 
-Asynchronous service for generating short download links.
-
-Tech stack:
-Python • Flask • asyncio • aiohttp • PostgreSQL
-
-Repository:
-https://github.com/Dmtrii-Zverev/async-yacut
-
----
-
-### Quiz Service API
-
-Backend service for quiz application.
-
-Features:
-- quizzes
-- categories
-- random questions
-- answer validation
-
-Tech stack:
-Python • Django • DRF • PostgreSQL
-
-Repository:
-https://github.com/Dmtrii-Zverev/higher-web-practice-quiz-python
-
----
-
-## Education
-
-ITMO University  
-MSc Frontend & Backend Development
-
-Yandex Practicum  
-Python Backend Developer
